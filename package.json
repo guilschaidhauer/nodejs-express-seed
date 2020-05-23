@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-express-seed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Guilherme Schaidhauer de Castro",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
